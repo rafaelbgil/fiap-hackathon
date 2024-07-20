@@ -22,3 +22,5 @@ Diagrama que demonstra a comunicação básica entre cada microserviço
 
 ## Registro de decisões de arquitetura(ADRs)
 - [ADR 1. Uso de arquitetura de microserviços e Kubernetes](adrs/adr1.md)
+- [ADR 2. Uso de mensageria](adrs/adr2.md)
+- [ADR 3. Uso da aplicação rabbitmq para mensageria como um serviço do kubernetes](adrs/adr3.md)
