@@ -19,3 +19,6 @@ Diagrama com a visão de alto nível da arquitetura e seus componentes.
 ## Comunicação entre microserviços
 Diagrama que demonstra a comunicação básica entre cada microserviço
 ![Alt text](imgs/comunicao_microservicos.png "Diagrama de comunicação dos microserviços")
+
+## Registro de decisões de arquitetura(ADRs)
+- [ADR 1. Uso de arquitetura de microserviços e Kubernetes](adrs/adr1.md)
