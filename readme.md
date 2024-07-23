@@ -30,3 +30,4 @@ Diagrama que demonstra a comunicação básica entre cada microserviço
 - [ADR 7. Uso de Storage Object para arquivos anexos de prontuário](adrs/adr7.md)
 - [ADR 8. Uso de Mysql como serviço DBAAS](adrs/adr8.md)
 - [ADR 9. Microserviços separados para medico e paciente](adrs/adr9.md)
+- [ADR 10. Uso de github actions para pipeline CI/CD](adrs/adr10.md)
