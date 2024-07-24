@@ -35,3 +35,4 @@ Diagrama que demonstra as funcionalidades básicas e a comunicação entre os mi
 - [ADR 8. Uso de Mysql como serviço DBAAS](adrs/adr8.md)
 - [ADR 9. Microserviços separados para medico e paciente](adrs/adr9.md)
 - [ADR 10. Uso de github actions para pipeline CI/CD](adrs/adr10.md)
+- [ADR 11. Uso do sonarcloud para análise de qualidade e segurança de código](adrs/adr11.md)
